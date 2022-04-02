@@ -62,15 +62,15 @@ hr{
 .trending p{
     position: relative;
     font-size: 2vw;
-    color: #333b6960 ;
-    -webkit-text-stroke: 0.3vw #383d52;
+    color: #6e6ee9 ;
+    -webkit-text-stroke: 0.3vw #6e6ee9;
     text-transform: uppercase
 }
 .text p{
     position: relative;
     font-size: 2vw;
-    color: #252839;
-    -webkit-text-stroke: 0.3vw #383d52;
+    color: #6e6ee9;
+    -webkit-text-stroke: 0.3vw #6e6ee9;
     text-transform: uppercase;
 }
  .text p::before{
